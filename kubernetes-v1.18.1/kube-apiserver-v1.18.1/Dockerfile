@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers//kube-apiserver:v1.18.1
+FROM gcr.io/google_containers/kube-apiserver:v1.18.1
 MAINTAINER kabi
